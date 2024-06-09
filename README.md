@@ -1,2 +1,9 @@
 # ElectroTrack
 Auto Parts Inventory Tracking System
+
+TEAM:
+ARANETA, RYAN
+ESPANILLIO, KRISTEL
+GALICIA, CHRISTINE
+TINAO, JAN ASHLEY
+YABA, ALIAH
